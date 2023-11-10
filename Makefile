@@ -47,6 +47,6 @@ $(BUILD_DIR)/%.o: $(TEST_DIR)/%.cpp
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 clean:
-	rm -rf $(BUILD_DIR) $(EXECUTABLE) $(TEST_EXECUTABLE)
+	rm -rf $(BUILD_DIR) $(EXECUTABLE) $(TEST_EXECUTABLE) triangle_tree.txt triangle_tree_giant.txt
 
 .PHONY: all clean test
