@@ -1,4 +1,3 @@
-```markdown
 # Triangle Tree Exercise
 
 This repository contains an exercise related to a triangle tree. The project structure includes source code, tests, and a Makefile for easy compilation and testing.
@@ -51,5 +50,3 @@ This will compile the test files in the `tests` directory and execute them, prov
 - **triangle.txt:** Contains data relevant to part 2 of the exercise.
 
 Feel free to explore the code in the `src` and `tests` directories to understand the implementation details of the triangle tree exercise.
-
-```
